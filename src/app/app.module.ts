@@ -6,7 +6,11 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { AboutUsComponent } from './about-us/about-us.component';
 import { ContactUsComponent } from './contact-us/contact-us.component';
+<<<<<<< HEAD
 import { VideosComponent } from './videos/videos.component';
+=======
+import { RegisterComponent } from './register/register.component';
+>>>>>>> origin/register
 
 @NgModule({
   declarations: [
@@ -14,7 +18,11 @@ import { VideosComponent } from './videos/videos.component';
     HomeComponent,
     AboutUsComponent,
     ContactUsComponent,
+<<<<<<< HEAD
     VideosComponent
+=======
+    RegisterComponent
+>>>>>>> origin/register
   ],
   imports: [
     BrowserModule,
