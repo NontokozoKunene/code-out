@@ -10,6 +10,7 @@ import { ContactUsComponent } from './contact-us/contact-us.component';
 <<<<<<< HEAD
 import { VideosComponent } from './videos/videos.component';
 import { VideoComponent } from './video/video.component';
+import { RegisterComponent } from './register/register.component';
 =======
 import { RegisterComponent } from './register/register.component';
 >>>>>>> origin/register
@@ -25,7 +26,8 @@ import { RegisterComponent } from './register/register.component';
     ContactUsComponent,
 <<<<<<< HEAD
     VideosComponent,
-VideoComponent
+VideoComponent,
+RegisterComponent
 =======
     RegisterComponent
 >>>>>>> origin/register
